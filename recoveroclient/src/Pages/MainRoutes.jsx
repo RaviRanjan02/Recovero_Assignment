@@ -34,17 +34,17 @@ const MainRoutes = () => {
         <Route
           path="/Blog"
           element={
-            <ProtectedRoutes>
+            
               <Blog />
-            </ProtectedRoutes>
+            
           }
         />
         <Route
           path="/blog/:id"
           element={
-            <ProtectedRoutes>
+            
               <SingleBlog />
-            </ProtectedRoutes>
+            
           }
         />
       </Routes>

@@ -33,7 +33,7 @@ const Login = () => {
       let token = localStorage.getItem("token");
       if (token) {
         alert("Login Successfull");
-        navigate("/");
+        navigate("/writter");
       }
     });
   };
