@@ -22,6 +22,7 @@ Hello readers this is my Small mini Blog application based on Crud operations.
 ### react-redux (8.0.5)
 ### react-router-dom (6.4.3)
 ### redux-thunk (2.4.2)
+### Chakara Ui (2.0)
 
     
     
